@@ -1,0 +1,49 @@
+body{
+    font-size: xx-large;
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #111111;
+    background-color: #ffffff;
+}
+section{
+    padding-left: 56px;
+    padding-top: 24px;
+    margin-left: 200px;
+
+}
+
+nav{
+    
+    margin-right:1200px;
+    margin-left: 500px;
+    padding-left: 100px;
+    border:2px solid rgb(1, 0, 37);
+    background-color: bisque;
+    
+}
+
+h1{
+    color: rgb(1, 39, 73);
+}
+p{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin-left: 74px;
+    margin-right: 74px  ;
+    padding-left: 56px;
+    padding-right: 56px;
+    box-shadow: 2px 2px #cccccc;
+    background-color: bisque;
+   
+}
+
+li{
+    list-style: none;
+    
+}
+
+
+
+
+
+

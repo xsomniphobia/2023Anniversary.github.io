@@ -1,0 +1,39 @@
+body{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(247, 248, 191);
+
+
+}
+ ul{
+    margin-top: 24px;
+    background-color: rgb(204, 177, 144);
+    box-shadow: 2px 2px #ccc ;
+    margin-right: 60px;
+    margin-left: 60px;
+ }
+
+ li{
+    list-style-type: circle;
+ }
+
+ h2{
+    color: rgb(54, 40, 22);
+ }
+
+
+header{
+    background-color:rgb(204, 177, 144);
+    box-shadow: 2px 2px #ccc;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left:24px;
+    margin-right: 24px;
+}
+
+h3,p{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left:24px;
+    margin-right: 24px;
+}
