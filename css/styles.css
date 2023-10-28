@@ -13,8 +13,9 @@ section{
 
 nav{
     
-    margin-right:1200px;
-    margin-left: 500px;
+    font-size: x-large;
+    margin-right:100px;
+    margin-left: 100px;
     padding-left: 100px;
     border:2px solid rgb(1, 0, 37);
     background-color: bisque;
